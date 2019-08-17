@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/herolist/static/css/main.64583935.chunk.css",
+    "main.js": "/herolist/static/js/main.0090a0ee.chunk.js",
+    "main.js.map": "/herolist/static/js/main.0090a0ee.chunk.js.map",
+    "runtime~main.js": "/herolist/static/js/runtime~main.eb9dd724.js",
+    "runtime~main.js.map": "/herolist/static/js/runtime~main.eb9dd724.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/herolist/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.bae3d14d.chunk.js": "/herolist/static/js/2.bae3d14d.chunk.js",
+    "static/js/2.bae3d14d.chunk.js.map": "/herolist/static/js/2.bae3d14d.chunk.js.map",
+    "index.html": "/herolist/index.html",
+    "precache-manifest.26d67d42b88a48bd7c0568ba1c089248.js": "/herolist/precache-manifest.26d67d42b88a48bd7c0568ba1c089248.js",
+    "service-worker.js": "/herolist/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/herolist/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.64583935.chunk.css.map": "/herolist/static/css/main.64583935.chunk.css.map",
+    "static/media/App.css": "/herolist/static/media/SEGA.12a3db8b.woff",
+    "static/media/index.css": "/herolist/static/media/background.b98712d4.jpg"
+  }
+}
