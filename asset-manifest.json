@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/herolist/static/css/main.64583935.chunk.css",
-    "main.js": "/herolist/static/js/main.0090a0ee.chunk.js",
-    "main.js.map": "/herolist/static/js/main.0090a0ee.chunk.js.map",
-    "runtime~main.js": "/herolist/static/js/runtime~main.eb9dd724.js",
-    "runtime~main.js.map": "/herolist/static/js/runtime~main.eb9dd724.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/herolist/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.bae3d14d.chunk.js": "/herolist/static/js/2.bae3d14d.chunk.js",
-    "static/js/2.bae3d14d.chunk.js.map": "/herolist/static/js/2.bae3d14d.chunk.js.map",
-    "index.html": "/herolist/index.html",
-    "precache-manifest.26d67d42b88a48bd7c0568ba1c089248.js": "/herolist/precache-manifest.26d67d42b88a48bd7c0568ba1c089248.js",
-    "service-worker.js": "/herolist/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/herolist/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.64583935.chunk.css.map": "/herolist/static/css/main.64583935.chunk.css.map",
-    "static/media/App.css": "/herolist/static/media/SEGA.12a3db8b.woff",
-    "static/media/index.css": "/herolist/static/media/background.b98712d4.jpg"
+    "main.css": "/dota2hero/static/css/main.a510dd47.chunk.css",
+    "main.js": "/dota2hero/static/js/main.26e62bdc.chunk.js",
+    "main.js.map": "/dota2hero/static/js/main.26e62bdc.chunk.js.map",
+    "runtime~main.js": "/dota2hero/static/js/runtime~main.5cc04a8e.js",
+    "runtime~main.js.map": "/dota2hero/static/js/runtime~main.5cc04a8e.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/dota2hero/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.bae3d14d.chunk.js": "/dota2hero/static/js/2.bae3d14d.chunk.js",
+    "static/js/2.bae3d14d.chunk.js.map": "/dota2hero/static/js/2.bae3d14d.chunk.js.map",
+    "index.html": "/dota2hero/index.html",
+    "precache-manifest.2732f318a57e7d8a3d9f3b9eecf76992.js": "/dota2hero/precache-manifest.2732f318a57e7d8a3d9f3b9eecf76992.js",
+    "service-worker.js": "/dota2hero/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/dota2hero/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.a510dd47.chunk.css.map": "/dota2hero/static/css/main.a510dd47.chunk.css.map",
+    "static/media/App.css": "/dota2hero/static/media/SEGA.12a3db8b.woff",
+    "static/media/index.css": "/dota2hero/static/media/background.b98712d4.jpg"
   }
 }
