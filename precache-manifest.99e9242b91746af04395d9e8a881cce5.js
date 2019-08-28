@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d446a1e12d22e10375826d56c1989c7",
+    "revision": "729be31777e389431510443bc4eb0e1a",
     "url": "/dota2hero/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dota2hero/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "0039ca6c3cc17b457046",
-    "url": "/dota2hero/static/css/main.4709f875.chunk.css"
+    "revision": "897a8f0039971602b978",
+    "url": "/dota2hero/static/css/main.48b2d4f6.chunk.css"
   },
   {
     "revision": "59d49a8330ebc98f25b7",
     "url": "/dota2hero/static/js/2.bae3d14d.chunk.js"
   },
   {
-    "revision": "0039ca6c3cc17b457046",
-    "url": "/dota2hero/static/js/main.020505d8.chunk.js"
+    "revision": "897a8f0039971602b978",
+    "url": "/dota2hero/static/js/main.26e62bdc.chunk.js"
   },
   {
     "revision": "1cd4411df374cb64dd7c",
