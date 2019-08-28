@@ -43,7 +43,7 @@ class App extends Component
 		return (
 
 		<div className='tc'>
-			<h1 className='f1'>Dota Hero List</h1>
+			<h1 className='f1'>Dota Heroes</h1>
 
 			<SearchBox searchChange={this.onSearchChange} />
 			{/*<Scroll>*/}

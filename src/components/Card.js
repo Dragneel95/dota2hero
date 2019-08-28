@@ -3,7 +3,7 @@ import React from 'react';
 const Card = ({localized_name, email,id, username, url_full_portrait}) => {
 	return (
 		<div className= 'tc   dib  pa3 ma3 grow bw1 shadow-5' style= {{height:'300px', weight:'300px', background: 'rgba(126,18,18,0.4)'}}>
-			<img  alt='robots' src={url_full_portrait/*`https://robohash.org/${id}?set=any`*/} />
+			<img  alt='robots' height="144" width="256" src={url_full_portrait/*`https://robohash.org/${id}?set=any`*/} />
 			<div>
 				<h2 >{localized_name} </h2>
 				
