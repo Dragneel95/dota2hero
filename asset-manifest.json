@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dota2hero/static/css/main.a510dd47.chunk.css",
-    "main.js": "/dota2hero/static/js/main.26e62bdc.chunk.js",
-    "main.js.map": "/dota2hero/static/js/main.26e62bdc.chunk.js.map",
+    "main.css": "/dota2hero/static/css/main.4709f875.chunk.css",
+    "main.js": "/dota2hero/static/js/main.020505d8.chunk.js",
+    "main.js.map": "/dota2hero/static/js/main.020505d8.chunk.js.map",
     "runtime~main.js": "/dota2hero/static/js/runtime~main.5cc04a8e.js",
     "runtime~main.js.map": "/dota2hero/static/js/runtime~main.5cc04a8e.js.map",
     "static/css/2.31dafeb2.chunk.css": "/dota2hero/static/css/2.31dafeb2.chunk.css",
     "static/js/2.bae3d14d.chunk.js": "/dota2hero/static/js/2.bae3d14d.chunk.js",
     "static/js/2.bae3d14d.chunk.js.map": "/dota2hero/static/js/2.bae3d14d.chunk.js.map",
     "index.html": "/dota2hero/index.html",
-    "precache-manifest.2732f318a57e7d8a3d9f3b9eecf76992.js": "/dota2hero/precache-manifest.2732f318a57e7d8a3d9f3b9eecf76992.js",
+    "precache-manifest.40e48e87cf80f4bfedd5de53e54ec245.js": "/dota2hero/precache-manifest.40e48e87cf80f4bfedd5de53e54ec245.js",
     "service-worker.js": "/dota2hero/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/dota2hero/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.a510dd47.chunk.css.map": "/dota2hero/static/css/main.a510dd47.chunk.css.map",
+    "static/css/main.4709f875.chunk.css.map": "/dota2hero/static/css/main.4709f875.chunk.css.map",
     "static/media/App.css": "/dota2hero/static/media/SEGA.12a3db8b.woff",
     "static/media/index.css": "/dota2hero/static/media/background.b98712d4.jpg"
   }
