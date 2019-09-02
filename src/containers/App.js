@@ -17,13 +17,18 @@ class App extends Component
 		super()
 		this.state = 
 		{
+			/*robots: [],*/
 			robots: robots,
 			searchfield:''
 		}
 	}
 
 
-
+/*componentDidMount()	 {
+	fetch('https://api.opendota.com/api/heroStats')
+	.then(response => response.json())
+	.then(heroStats => {this.setState({robots: heroStats})});
+}*/
 
 
 
